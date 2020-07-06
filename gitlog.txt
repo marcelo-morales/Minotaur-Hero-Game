@@ -1,0 +1,1442 @@
+commit 22a1bfe04886a4d6652f5dd87072902ba52f3867
+Merge: 1551e88 6de6b8f
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Wed May 6 19:58:44 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/anaemeribe/final_cs220
+
+commit 6de6b8f4f5577635529913ccfdbd30e87068bb4f
+Merge: c668a79 2ea6cee
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Wed May 6 19:48:29 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/anaemeribe/final_cs220
+
+commit c668a7918758ff6c61f74f88dcbf1f0366863847
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Wed May 6 19:47:30 2020 -0400
+
+    Edited loadgame to check if maze read failed
+
+commit 1551e887724c6740051bbe535609c590f3b1a460
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Wed May 6 18:58:49 2020 -0400
+
+    deleted gametest.cpp
+
+commit 2ea6ceed563bb7ba5ed8d3cdb3707dc739edc8bd
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Wed May 6 18:57:36 2020 -0400
+
+    updated from public repo
+
+commit 950080932f9b98dc08f00fc17903b481935b90f2
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Wed May 6 18:42:26 2020 -0400
+
+    updated from public repo
+
+commit f5859f0bfbb7fee8ef9ddbc9f4d98f425f7dae27
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Wed May 6 18:41:27 2020 -0400
+
+    wrong folder
+
+commit 2e94e8f3f946d5c93c636a5b9301d7634b4f4763
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Wed May 6 18:40:06 2020 -0400
+
+    updated from public repo
+
+commit 1b5d23853437520565f74b6d280c448cb9c6c37e
+Merge: 278a339 2ed32cb
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Wed May 6 18:18:55 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/anaemeribe/final_cs220
+
+commit 278a339cbebb1da84171b0e24eb1445dc301a864
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Wed May 6 18:18:48 2020 -0400
+
+    deleted unnecessary code; appears to be working successfully
+
+commit 2ed32cb3e5b983c4d43377087a44ecad537f834d
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Wed May 6 18:12:19 2020 -0400
+
+    Remove semicolon in Illegal Move message
+
+commit 3fc27f89b1a28c87949ace965f4e4bcf5f88ac0f
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Wed May 6 18:02:32 2020 -0400
+
+    added case in search so that entity doesn't move if there is no path
+
+commit daf789559fa4218a71bc17767d511e29d0e1a3e6
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Wed May 6 17:52:10 2020 -0400
+
+    added Entity as a parameter to seach and getValidNeighbor
+
+commit 62d312280750f3acf2416e3c90d1570c89a57604
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Wed May 6 16:08:34 2020 -0400
+
+    minotaur is finally moving
+
+commit dd6fdafb67c73edcbbfe0ca54420d925b898cb71
+Merge: 2068ab5 b6192fd
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Wed May 6 14:21:52 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/anaemeribe/final_cs220
+
+commit 2068ab51250d9bfd27447e07d379a9bcf2491fa3
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Wed May 6 14:21:05 2020 -0400
+
+    made some changes to files to try to find where the error is
+
+commit b6192fd5febd73a0531b306d3d5288603a921a3e
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Wed May 6 13:16:24 2020 -0400
+
+    Added main contributions to README
+
+commit dc5367dec673e5709bb610132ddace36c266ffa5
+Merge: ee0ea73 4429c18
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Wed May 6 13:06:20 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/anaemeribe/final_cs220
+
+commit 4429c1816e572f2ef629ea595cbcd05e303bfd38
+Merge: 1741026 dbf5a79
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Wed May 6 00:35:43 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/anaemeribe/final_cs220
+
+commit 1741026e2ce858db0220cfc36a9270e35f2bbb1d
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Wed May 6 00:34:41 2020 -0400
+
+    readme implemented
+
+commit 1e4c0dcddb41a16fb3d75eb6c85db7b4296293b4
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Wed May 6 00:33:53 2020 -0400
+
+    readme
+
+commit c0a6ceb57a2c4e304b9e5f633c350ce13d174038
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Wed May 6 00:30:22 2020 -0400
+
+    added readme
+
+commit ee0ea73cfa6a1115e1639ac88669fe1498fdfe95
+Merge: 19ac772 dbf5a79
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Wed May 6 00:17:08 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/anaemeribe/final_cs220
+
+commit dbf5a79c65f63287d76a665d5672a8eb433edc7c
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Wed May 6 00:16:02 2020 -0400
+
+    added some break statements
+
+commit 41e23e554acf1ec90d765a4e38e66521f42f55d9
+Merge: c71acaf ddfece5
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Wed May 6 00:14:22 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/anaemeribe/final_cs220
+    :
+
+commit c71acaf75fc60a6bc3d78521606139fa811518eb
+Merge: 99a6057 7518f6b
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Wed May 6 00:14:09 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/anaemeribe/final_cs220
+
+commit 19ac77225fa8dfd77a0f3b255ce4bd1cd0d4a687
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Wed May 6 00:04:03 2020 -0400
+
+    Fixed getDirection in basicgamerules
+
+commit ddfece5e922998882d705487c8f93572b03e81ab
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Tue May 5 23:52:35 2020 -0400
+
+    deleted some comments
+
+commit 93b324403e21fe92fea1265311a67e6411c389c3
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Tue May 5 23:35:21 2020 -0400
+
+    fixed issue in which hero wins was being outputted twice
+
+commit 7518f6bb988d71d8fe331c7f7d7bdb391809b5ed
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Tue May 5 23:13:57 2020 -0400
+
+    deleted display from gameloop function
+
+commit 99a605778f54a0e2a5957a7a8264aa2f957d653e
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Tue May 5 23:05:17 2020 -0400
+
+    cout taken out
+
+commit b28a09182d42812581cd658d39c16dd072418ffa
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Tue May 5 23:00:35 2020 -0400
+
+    fixed print statements for hero wins and hero loses
+
+commit bd7e12a5716b25a63ffeb110bf38abaffc4b0556
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Tue May 5 22:53:45 2020 -0400
+
+    updated render to make minotaur stand on top of hero
+
+commit 909c3d4f6c9c3393f435e4cca79304e5b33d7321
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Tue May 5 22:44:54 2020 -0400
+
+    work
+
+commit 1d39997e900904f1d39bc60c757946c55053af18
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Tue May 5 22:42:22 2020 -0400
+
+    Added names to files
+
+commit 5ed69f74e55af05209d7656e3f33a67b834dd0b6
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Tue May 5 22:25:47 2020 -0400
+
+    w
+
+commit ba318a79604ef83cb6d5223b2fe8cb904fec622a
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Tue May 5 22:22:31 2020 -0400
+
+    warnings
+
+commit 771a4c246b89699d465f9ada175cfcf3f3d6f397
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Tue May 5 22:19:13 2020 -0400
+
+    added continue
+
+commit cd97358d1252273d0298a36137019ba58708d499
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Tue May 5 22:16:17 2020 -0400
+
+    check for minotaur situation
+
+commit 7486921080a1d42b299d0827647f325613f8f5ed
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Tue May 5 22:01:43 2020 -0400
+
+    work
+
+commit 42e4ddd3023979f822e604f0affe2afc279a94d9
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Tue May 5 21:37:53 2020 -0400
+
+    Edited textui.cpp to try to remove extra characters
+
+commit 65892ca3b9e9de8e9fb994f977fa86051c1b003f
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Tue May 5 21:30:34 2020 -0400
+
+    updated game loop to show winning or losing maze
+
+commit 8bb5aef717a62f9981513c2e818db3271f423673
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Tue May 5 21:04:34 2020 -0400
+
+    Add parenthesis around allowMove comparison
+
+commit 1fdd139a40a152f7ed07df552e230f3908c1ab2d
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Tue May 5 21:02:40 2020 -0400
+
+    Simplified enactMove checked
+
+commit c4c5ebc74a7052d82df4bc551b37db55f990739e
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Tue May 5 20:52:03 2020 -0400
+
+    Fixed minor compilier issue
+
+commit 3fd1b5c15cc631999113ee951701de36a4437dd3
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Tue May 5 20:47:27 2020 -0400
+
+    updated verticalCaller and horizontalCaller to account for distance of 0
+
+commit c7930c49a37e9b55cccb816d31d94a94b9229efd
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Tue May 5 20:37:56 2020 -0400
+
+    Allowed hero to move onto mino and removed extra print statements
+
+commit 36527f042eff86ea4ac812d734287bfe2eed2af7
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Tue May 5 20:22:15 2020 -0400
+
+    message
+
+commit 4b370985b394e7ca43e1b06656df29ddefa51bdd
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Tue May 5 19:46:17 2020 -0400
+
+    Added check for properties again in enactMove
+
+commit 3482bfe676f6b2b4d4432388dc0fa3a1dbb2c256
+Merge: 083f77e c2c9587
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Tue May 5 19:35:28 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/anaemeribe/final_cs220
+
+commit 083f77e1b1bd2f8ae237761c124d7702b88db19a
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Tue May 5 19:35:15 2020 -0400
+
+    hi
+
+commit c2c9587c44c0a6046a6fe33198ac8234ad20671b
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Tue May 5 19:33:28 2020 -0400
+
+    removed delete statement
+
+commit 6a99d6b3de94f44c56ae0c85c381b4c47c036007
+Merge: 3e400cd 11f5901
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Tue May 5 19:32:38 2020 -0400
+
+    merge?
+
+commit 3e400cd1362200a6553294e1bbb62d281c17e1c2
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Tue May 5 19:29:00 2020 -0400
+
+    work
+
+commit 174dc101d3df2055735b25f0beb60b910bff8db3
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Tue May 5 19:26:53 2020 -0400
+
+    iterator work
+
+commit 11f5901bf3e448033c409f6c2ff1000fdda02c32
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Tue May 5 19:18:47 2020 -0400
+
+    need to fiz iterators
+
+commit 7816c35c376fb6e207af10cc6d5a5906b631e7f2
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Tue May 5 18:42:24 2020 -0400
+
+    fixed directions in getMoveDirection
+
+commit 13fc5bfa6b782ee57038d93a3fe3989e748a8c58
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Tue May 5 18:11:48 2020 -0400
+
+    void unused parameter in displayMessage
+
+commit 72c12cf74ec85cc1204cd2d3ee30562aab42b6c2
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Tue May 5 17:58:25 2020 -0400
+
+    text problem
+
+commit 7acbd3d7a6f18487a257a62ac7aa0c0ce5632e56
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Tue May 5 17:48:39 2020 -0400
+
+    render function done
+
+commit 993a4906f7267c0e28957e794ba9b37af7fddff7
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Tue May 5 16:43:02 2020 -0400
+
+    Tested for properties in enactMove
+
+commit a87f2e545733f7dac45de374868252fa00b15a09
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Tue May 5 16:39:05 2020 -0400
+
+    added two return statements to fix testChaseHero1
+
+commit 61847065b898e0230aa184cb4082ca9df275e210
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Tue May 5 16:19:02 2020 -0400
+
+    passed 2nd test
+
+commit eeae8bd14172062434c8e3309f686902a8cd072e
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Tue May 5 16:07:25 2020 -0400
+
+    made some fixes to fix complier errors
+
+commit d98beeb2c26e53d862ad09190e26dcb13cc2aa64
+Merge: 87f96dc d3053c6
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Tue May 5 14:37:53 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/anaemeribe/final_cs220
+
+commit 87f96dc99ef189562458ab37264d24041dafc2f4
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Tue May 5 14:31:57 2020 -0400
+
+    added check to see whether the move would make the distance shorter
+
+commit d3053c6e2ec16f9bb5ccc67eaf5314759864e0dc
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Tue May 5 14:13:18 2020 -0400
+
+    Simplified code and changed direction readion for chasehero
+
+commit 05c188007938f1ec40365e044b495f93be2d10d8
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Tue May 5 14:12:18 2020 -0400
+
+    Change properties to a vector of characters
+
+commit f08620eadf1bb39904eb6428a89d89efb0539cc2
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Tue May 5 11:50:07 2020 -0400
+
+    Removed toLower and simplified takeTurn
+
+commit a04d1ec3fbd6f13aaafea6042c1cc0845e2226dd
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Tue May 5 10:53:00 2020 -0400
+
+    Lowercase glyphs
+
+commit 63e28b16abe5404cf1434dfdf91e81c90ee4a9c8
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Tue May 5 10:10:41 2020 -0400
+
+    Fixed getDirection in Maze
+
+commit 923024af139d439d5335d503426fbdd99228010f
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Tue May 5 09:53:26 2020 -0400
+
+    Checked Maze read
+
+commit f55ad120b098431220de7ba4bb559f84a82f7ba7
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Tue May 5 05:25:28 2020 -0400
+
+    fixed errors in these fields to fix testTakeTurn
+
+commit 5c3835b1f66ebbd4ee7cd97373b253d217d0403f
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Tue May 5 02:43:37 2020 -0400
+
+    fixed testLoadGame by fixing setProperties, loadGame, and read
+
+commit bdca9143816d8e4181db6c1dccb0a292fc394252
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Tue May 5 00:29:10 2020 -0400
+
+    added some deletes
+
+commit 0ce6807208237113f10fe6a7d105f8af6e59ff24
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Tue May 5 00:02:24 2020 -0400
+
+    inanimate no warnings
+
+commit 9613a9f08010906f0c218b38ed698b6d7b5ba1a6
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Tue May 5 00:00:03 2020 -0400
+
+    game compiles
+
+commit 2035939a334216cf6f104b1be6d30c855923c751
+Merge: d606d4e 41aed82
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Mon May 4 23:56:05 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/anaemeribe/final_cs220
+
+commit d606d4e2151d78edd6c356be05325d3f332df10e
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Mon May 4 23:55:56 2020 -0400
+
+    added delete statement
+
+commit 41aed82d7ff2c1df4584cf2ffa957f11aba92316
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Mon May 4 23:55:33 2020 -0400
+
+    Removed a few problematic deletes
+
+commit 65cb8a3e7e51f9d3739c5e6301096d65159f46be
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Mon May 4 23:38:34 2020 -0400
+
+    added some delete statements
+
+commit 7b3ede63c911485e08cb46aee19ca48aadb46486
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Mon May 4 23:19:01 2020 -0400
+
+    Updated takeTurn to properly display message is user inputs invalid move
+
+commit f7da3a9b1930354156866dad986817fe5f37bb2f
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Mon May 4 23:09:37 2020 -0400
+
+    Address issues with removing namested and added allowMove
+
+commit d51f3efa68e16941b85ff72c3169f4b767c9233b
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Mon May 4 22:49:28 2020 -0400
+
+    Removed use namestead
+
+commit 76626a5b67e0e5ca5aa8c4b1d73bf2e137bd493e
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Mon May 4 22:23:15 2020 -0400
+
+    Updated deconstructor for maze
+
+commit 3d53f2572e7e81857b91642ebfa2e1419ad60067
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Mon May 4 21:47:07 2020 -0400
+
+    latest game class
+
+commit 650c4daf5a35d345de1934e9c27d2821a1fd05d6
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Mon May 4 21:20:12 2020 -0400
+
+    Removed a few extra comments
+
+commit d77807c3d406912e5d73dc92c688849b95fd15bf
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Mon May 4 19:54:46 2020 -0400
+
+    render hal;fway done
+
+commit 243c8e23b6f55db9f9073fcdffebeae2ad96e3d6
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Mon May 4 19:18:10 2020 -0400
+
+    Removed depend and object files
+
+commit 165414cdf08e530e87af0e7fd18a93124d9183fd
+Merge: b3644af 6d3a49d
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Mon May 4 19:16:10 2020 -0400
+
+    Merged files
+
+commit b3644af58e9232e3357d5b1b443ae1adef111576
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Mon May 4 19:11:21 2020 -0400
+
+    Fixed compiler issues with enactMove and getDirection along with a small warning from checkGame
+
+commit 6d3a49def9130b331e3c91bef6731d2097f845fc
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Mon May 4 18:55:57 2020 -0400
+
+    game compiles, work on gametest now
+
+commit b6413ddafc7245bdaaa136f5a016018611f3791b
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Mon May 4 18:24:36 2020 -0400
+
+    game class so far
+
+commit 9016889d76175ae2ad1eb4d6410d757e7ca4aff1
+Merge: 4bdabad 713dcea
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Mon May 4 18:21:28 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/anaemeribe/final_cs220
+
+commit 4bdabadc6bbba7206b0dcf93dcd212b643155a2b
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Mon May 4 18:21:21 2020 -0400
+
+    game class so far
+
+commit 713dcea97555de69246eea0c5173899d8b7dc520
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Mon May 4 18:07:28 2020 -0400
+
+    Finished enactMove
+
+commit 37bfd1deafe67d249e771a562bb5537e062c15b0
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Mon May 4 17:17:19 2020 -0400
+
+    basicgamerules one function done
+
+commit 81e7e12e0eb504a595f672f527eab3ae1eabb2a3
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Mon May 4 17:08:48 2020 -0400
+
+    Removed code that tested maze
+
+commit 04e5867bcc89a2fe76bebca9e32c9c24176c88c5
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Mon May 4 14:40:45 2020 -0400
+
+    added some comments and fixed layout
+
+commit 0aadaab9c3e3f23058cc6843dade1f67e31f396e
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Mon May 4 14:34:26 2020 -0400
+
+    completed getMoveDirection, constructor, deconstructor, and isUser implementations
+
+commit 4e672f81fc608a2c908d705a55bd60e1634dcced
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Mon May 4 13:49:53 2020 -0400
+
+    updated search function
+
+commit eafd260a19824e5df60e4f4c8a8e7bfcd6779b98
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Mon May 4 05:04:30 2020 -0400
+
+    added getValidNeighbors declaration and implementation
+
+commit 9f9b9c44774874267b16be8857212f856665a9bf
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Mon May 4 04:25:27 2020 -0400
+
+    updated search function
+
+commit 799157546356608c950372e3088dd42b9cb2d80b
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Mon May 4 01:45:23 2020 -0400
+
+    updated path function
+
+commit 2f0ea4c3b98baf1b4dd57d1879494669f20c66a8
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Mon May 4 01:21:40 2020 -0400
+
+    added path function declaration and implementation
+
+commit 4de993230ac53edfb9e27d3e14a74198308945e6
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Sun May 3 23:08:35 2020 -0400
+
+    updated setStringDirections
+
+commit 55168edf681e1ad1f04003936d5bb3d0e6a48ba3
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Sun May 3 22:48:57 2020 -0400
+
+    updated verticalDir declaration and leftOrRight
+
+commit 2d3859415904360a0907f0670fae94d7a820d53a
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Sun May 3 22:44:59 2020 -0400
+
+    added deconstructor implementation
+
+commit d93bf6fc44e1e970e7ae2e7148e73d939a7d2d56
+Merge: 4869c08 5fb81f8
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Sun May 3 22:42:04 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/anaemeribe/final_cs220
+
+commit 5fb81f84620dcd5eac4cd9f65426bf7a1129d1a2
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Sun May 3 22:25:15 2020 -0400
+
+    implemented checkGameResult in basicgameRules
+
+commit 4b6d939706e3b87b0b8b29c342401e72cccf4001
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Sun May 3 22:24:25 2020 -0400
+
+    work on basic game rules and game no errors
+
+commit 4869c0873b350ddce760c3f2194cf58f0d8ce475
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Sun May 3 19:38:55 2020 -0400
+
+    added f() declaration and implementation
+
+commit 42c3041a4c83964859f65887d62dec4c9aafba5d
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Sun May 3 19:26:57 2020 -0400
+
+    added h() declaration and implementation
+
+commit cc99a4f3fefdff4355699511053db37dbe323c33
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Sun May 3 19:21:00 2020 -0400
+
+    added g() declaration and implementation
+
+commit 79093de491283d85c91b2f47e5b6286a464e37dd
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Sun May 3 17:02:36 2020 -0400
+
+    added allowMove function and implementation
+
+commit 578bb962bad6dde0bf53ce50ba8e4edb90ed07b9
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Sun May 3 16:47:48 2020 -0400
+
+    updated constructor and deconstructor
+
+commit 53e4ea39d917cc9204938e0a4869701ed40a6aed
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Sun May 3 16:23:51 2020 -0400
+
+    added deconstructor and constructor implementations
+
+commit a0d641116143a841bc9d31b72a7d79a6ffa91a61
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Sun May 3 16:22:36 2020 -0400
+
+    added AStar class and implemented it constructor and deconstructor functions
+
+commit c70c0e7b8cf9831074b26841ddce5ffedb584c41
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Sun May 3 16:21:42 2020 -0400
+
+    removed astar.h and astar.cpp
+
+commit 1752298e098d4569864df032bb9da7a37cc26a97
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Sun May 3 16:20:33 2020 -0400
+
+    updated astar.h
+
+commit 81d199498e945a4dc8b2e4c7e6bd96764d7370cd
+Merge: 4921f64 d48ab1d
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Sun May 3 15:26:59 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/anaemeribe/final_cs220
+
+commit d48ab1dee8b8b26269dc767bea07667a5d86e0ad
+Merge: ca0b07c c99b591
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Sun May 3 15:20:23 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/anaemeribe/final_cs220
+
+commit ca0b07ca40da9bd626595119750ecbc4edfe32f9
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Sun May 3 15:20:16 2020 -0400
+
+    render done game done, will run tests soon
+
+commit 4921f64027fdd722f2e4cad65e40042aa571c3a7
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Sun May 3 05:36:41 2020 -0400
+
+    added constructor and deconstructor declarations
+
+commit 604eb75f6fa154f9411f9855e864234c2d8e57f9
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Sun May 3 05:36:22 2020 -0400
+
+    added constructor and deconstructor implementations
+
+commit 1c3abddd6a219eb63974edf8bd87f39b552fbaaa
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Sun May 3 04:23:07 2020 -0400
+
+    created astar
+
+commit c99b5918c243ad38dfb242fd8e317d999ce8eeee
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Sun May 3 01:07:55 2020 -0400
+
+    Updated Maze to pass all new tests
+
+commit 01daa7018b80d1a9613d71e67cd7d691a364eb5b
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Sun May 3 00:58:55 2020 -0400
+
+    render is almost done, just have small part at end where stuck
+
+commit 3cbc324085b72ea801860dfdb971470b8f0ca118
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Sun May 3 00:04:54 2020 -0400
+
+    implemented all functions in game, but have not tested them yet, basic framework done
+
+commit 9a78f250f079181be5120776af04d2238f3498f4
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Sat May 2 18:24:47 2020 -0400
+
+    implemented takeTurn in game
+
+commit 4f7a6a12559276a055822196a5b95eb187cc4ab8
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Sat May 2 17:57:50 2020 -0400
+
+    implementation of game class, halfway done
+
+commit d9b0bcf91c3913636333d73a8b53bb23022a7656
+Merge: afe5d5c 3a2e8de
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Sat May 2 17:55:54 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/anaemeribe/final_cs220
+    functions in gamr
+     the commit.
+
+commit afe5d5c5ae37f9bdd4c220ebe0e1406950b59cbb
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Sat May 2 17:54:41 2020 -0400
+
+    loadgame function implementation, still need to run tests
+
+commit 3a2e8de67e3164ea1344d7e91a0c99834c96c2bb
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Sat May 2 15:56:05 2020 -0400
+
+    removed mazetest
+
+commit 4aee12a2c1d0e2e243eda79e5dc6ff973e95f04f
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Sat May 2 15:55:32 2020 -0400
+
+    removed .o files, test files, and depend.mak
+
+commit f1d71d70973cd673fd85fcc656250e610848a0eb
+Merge: 65bfac1 07b95a0
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Sat May 2 15:03:13 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/anaemeribe/final_cs220
+
+commit 65bfac1ae9f7e027f72c87b154ab8fa447c2400a
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Sat May 2 15:03:08 2020 -0400
+
+    Working on rest of the functions of basicgamerules
+
+commit 07b95a0cb1014eb45862a3aa978e83c56a1d6707
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Sat May 2 13:59:54 2020 -0400
+
+    added driver program named main.cpp
+
+commit ffd59030bcde1b102e81d7e97c424367b9251a6e
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Sat May 2 13:40:52 2020 -0400
+
+    implemented functions in game
+
+commit e29a4aa38cfc11ca67ab0828e81437675f5d261f
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Sat May 2 12:49:32 2020 -0400
+
+    bug in game
+
+commit 19faeceb55b175dc2384675b0d40b8900dd023ee
+Merge: bb72329 26be123
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Sat May 2 09:43:34 2020 -0400
+
+    textui work
+
+commit bb7232912dd329a936223eb9188035449b733462
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Sat May 2 09:42:10 2020 -0400
+
+    textui work
+
+commit 5251d6e6fc13120a3f8bf9d57a7e4d8628a74945
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Sat May 2 09:41:26 2020 -0400
+
+    textui working
+
+commit 416b39a0e51cc7f875cf0ec6b04cfec4b4748491
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Sat May 2 09:40:07 2020 -0400
+
+    textui functioning
+
+commit 26be1233549eccbaca416f4c191c81555c017caf
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Sat May 2 05:23:17 2020 -0400
+
+    completed getMoveDirection and isUser implementations; still need to test
+
+commit bc4c51c82e1ffc1fe943058124f930ce252547ec
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Sat May 2 05:21:06 2020 -0400
+
+    added more parameters to setStringDirections
+
+commit 32422107dbd8eedbe2c340f15d5327e37ec65437
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Sat May 2 05:19:26 2020 -0400
+
+    added more parameters to setStringDirections
+
+commit 34117685575a00ceb089c854cab69fd428c5ac7b
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Sat May 2 05:01:49 2020 -0400
+
+    updated setStringDirections function declaration
+
+commit f2f9493a1fc3ae71a54397529ae6192adc88b421
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Sat May 2 05:01:10 2020 -0400
+
+    completed implementations of horizontalCaller and verticalCaller
+
+commit effa94491d0ba0aff77fa310bfb838f263243e63
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Sat May 2 04:52:46 2020 -0400
+
+    added horizontalCaller and verticalCaller function declarations
+
+commit 8b3436859fcd58e7b6be287803933f19bcf6dddc
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Sat May 2 04:35:06 2020 -0400
+
+    completed upOrDown implementation
+
+commit 9dcd3f4abcf95d0b2d65aab2328c184493ecccd6
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Sat May 2 04:34:46 2020 -0400
+
+    added upOrDown and setStringDirections functions
+
+commit 54097616f7da75df8c09b5a96e736ab7831a55cc
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Sat May 2 03:44:36 2020 -0400
+
+    completed leftOrRight, horizontaliDir, and verticalDir implementations
+
+commit 4bc1f50592a952a701ebb6044d55fcaee894612a
+Merge: 46611e1 a4fafe5
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Sat May 2 03:37:43 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/anaemeribe/final_cs220
+
+commit 46611e143bebd212929de238957e55c18ba4c1b9
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Sat May 2 02:56:00 2020 -0400
+
+    added leftOrRight function declaration
+
+commit 208fc48429f2b64bf55e5ac5e3ff2cbd7457c3a6
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Sat May 2 02:05:57 2020 -0400
+
+    added #include <string>
+
+commit 3388decc8829d9fe92c0d9b9008e6ad405f94c0f
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Sat May 2 02:04:37 2020 -0400
+
+    added horizontalDir and verticalDir function declaration
+
+commit 98a7b9ca7076c50a904189446e0ebfbb0e0a7ad6
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Sat May 2 00:02:38 2020 -0400
+
+    completed checkDirections implementation
+
+commit 2936d2059ddff5ff4ce20a7418c9295e61238d55
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Fri May 1 23:43:26 2020 -0400
+
+    added checkDirections declaration
+
+commit 681f70130400e351e397245c803156e06228de06
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Fri May 1 23:15:12 2020 -0400
+
+    completed implementation of closestHero
+
+commit 6af36e1af7dfcce3398f60e57ddfca18b193d72f
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Fri May 1 23:12:56 2020 -0400
+
+    updated return value of closestHero
+
+commit b26080a066ab9f921c1271507ca8e45dafa2df5c
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Fri May 1 23:03:59 2020 -0400
+
+    added entity parameter to closestHero declaration
+
+commit 633c1452a312df334d36b8508d2c25d85126ac55
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Fri May 1 22:51:32 2020 -0400
+
+    removed getHeroes function and replaced with closestHero function
+
+commit 068af4517bb6b944369a9a469768b9cd1961e5d1
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Fri May 1 21:13:53 2020 -0400
+
+    updated comment before getHeroes
+
+commit a4fafe5f8e6d3c7b62f3c7190e9fd7e9f8d35be1
+Merge: c94be84 c3debdb
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Fri May 1 21:05:45 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/anaemeribe/final_cs220
+
+commit 05ce9457003098cb4a13e65c822935c3c2d8a6f2
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Fri May 1 21:05:11 2020 -0400
+
+    added function declaration of getHeroes function
+
+commit c94be8400cd18d85501252f5e32a159a0e7c26fa
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Fri May 1 21:05:11 2020 -0400
+
+    Fixed and simplified Maze inBounds
+
+commit a5ac27013cd133ef1f1601d324172ce396c705b2
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Fri May 1 20:51:14 2020 -0400
+
+    added names
+
+commit c3debdb3848fafee121a77b354ee77d6d5a1cda2
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Fri May 1 20:50:44 2020 -0400
+
+    updated with new tests from public repo
+
+commit bca3cff32f7d32131e7c22c9df1ac7f039c6b433
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Fri May 1 20:39:19 2020 -0400
+
+    added consturctor, deconstrucotr implementations; still working getMoveDirection
+
+commit 09126c0fd11641b1e161ef3de7a6f5b4eece7caf
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Fri May 1 20:37:37 2020 -0400
+
+    updated from repo with new tests
+
+commit 9acf1867919a1c32b6755860ad0b4ba49ed5cccd
+Merge: aca3516 44f520b
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Fri May 1 20:35:27 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/anaemeribe/final_cs220
+
+commit 44f520b18ce87e087cd83b69b3a2ff57e2ac60dc
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Fri May 1 15:28:40 2020 -0400
+
+    Fixed a few kinks in allowMove
+
+commit 93a695b13b6cf0b36ced37f7890e491a3f955a3f
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Thu Apr 30 23:14:22 2020 -0400
+
+    Finished BasicGameRules AllowMoveOnto function
+
+commit eaa4fbf86896827bd586353e400eb71cc30a7a1c
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Thu Apr 30 23:12:52 2020 -0400
+
+    Updated maze's inBounds check for position using Position's inBounds function
+
+commit aca35162028066fc2b73a79419902d6cdeccaa11
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Thu Apr 30 18:51:50 2020 -0400
+
+    determined which was the closest entity with h property
+
+commit f570993c48175f9c55e871d4e7bd74d68ff582fe
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Thu Apr 30 17:52:00 2020 -0400
+
+    inanimate functioning
+
+commit 8d1161d1b9e8d20cb77ce873e7c20cb658e754e6
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Thu Apr 30 17:12:27 2020 -0400
+
+    completed constructor and deconstructor implementations
+
+commit 1dca22f098c8655ab467bdf1cec307035b8b9162
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Thu Apr 30 00:54:00 2020 -0400
+
+    implemented deconstructor function and deleted the throw to exception
+
+commit ba58b2f1174975c7b6b80dbe0c1484f5fbbe8214
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Thu Apr 30 00:00:27 2020 -0400
+
+    took out unsual lines of code
+
+commit 4b493728bcaf994df316e82a2090d3baf16dfb68
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Wed Apr 29 23:56:26 2020 -0400
+
+    deleted some unusal lines of code from both files
+
+commit a4e5268e12ed7c67b615b38132a806f14fd971f8
+Merge: b1e431c 53ed54d
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Wed Apr 29 23:52:04 2020 -0400
+
+    updated floor and goal
+
+commit b1e431c0deda93eb11fcd40887cb6b822de981f6
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Wed Apr 29 23:47:18 2020 -0400
+
+    updated README.md from class repo
+
+commit ac12550f5385e4c5d7eaed0d77b251ee722d1922
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Wed Apr 29 23:45:53 2020 -0400
+
+    removed .o files and depend.mak
+
+commit 3a41d38b3116c69ec0bf130fed8fd9104079d660
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Wed Apr 29 23:43:02 2020 -0400
+
+    removed tests files from folder because they had already been copied
+
+commit 62b4e726bbc0834766360f1259182e29fca94061
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Wed Apr 29 23:36:10 2020 -0400
+
+    updated file from class repo
+
+commit e3e7968c2531458f68f61f5a349ef71fa5243365
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Wed Apr 29 23:33:45 2020 -0400
+
+    added deconstructor
+
+commit 53ed54dc6f46520d6be12bb5f391f4475f840339
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Wed Apr 29 15:01:33 2020 -0400
+
+    Added names to files I worked on
+
+commit d7f8f64acfb72d2502f93c4f3da194bfe6bf8fb2
+Merge: f75511d c285699
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Wed Apr 29 14:50:20 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/anaemeribe/final_cs220
+    I forgot to pull
+
+commit f75511d4a5242e91c92888564d6d3cdbbe56485d
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Wed Apr 29 14:49:13 2020 -0400
+
+    Finished implementing and testing maze
+
+commit 1eb08cba9209004e0c20dcbaa831f7c0e3b9e201
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Wed Apr 29 14:48:40 2020 -0400
+
+    Implemented destructures for goal, floor, and wall
+
+commit c2856994b2d450a9e07652f59f1a2c12f9f2f07d
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Wed Apr 29 10:15:58 2020 -0400
+
+    fixed syntax errors; complies successfully
+
+commit cffe4f5fbbca0f822b12a8de8adf36ea866579c2
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Wed Apr 29 09:41:39 2020 -0400
+
+    added names
+
+commit 2f4a45f9650ea22b13000dfe5b728bafbfb239d4
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Wed Apr 29 09:33:39 2020 -0400
+
+    completed isUser function implementation
+
+commit c93a492a07f036575a0cfefb9e8c329d1ff9f715
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Wed Apr 29 09:29:16 2020 -0400
+
+    completed getMoveDirection implementation; haven't test yet to see if working
+
+commit dbb616551e01adf0a2489f9a96ec043b740349eb
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Wed Apr 29 02:56:30 2020 -0400
+
+    added constructor implementation
+
+commit 0617384d3cfe0f920a9f6e9370a7409c6bca5a61
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Wed Apr 29 02:36:36 2020 -0400
+
+    added names
+
+commit 0daa1f99e85d5689456771321e6cc1dcc7e03a66
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Wed Apr 29 02:36:09 2020 -0400
+
+    added names
+
+commit 27dd4e776f9b370aebcb163ca3e91de96344ebe1
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Wed Apr 29 01:23:49 2020 -0400
+
+    Added fields for Maze and started implementing all its functions though errors while compiling
+
+commit b02e6c013e879f7fc35517d6a20c5b2cccd824e4
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Tue Apr 28 17:27:04 2020 -0400
+
+    Added inherited constructors to floow, goal, and wall
+
+commit 616b6f228274fbb6978acfe914cb57da5b35cc55
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Tue Apr 28 13:57:36 2020 -0400
+
+    untracked files
+
+commit 6786dd798fbd56672a3e4f6832ed1aa255a4376e
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Tue Apr 28 13:57:09 2020 -0400
+
+    ui work, implemented displaymessage and getmovedirection
+
+commit 4e044b5d3072ad7beb515d2d3e889fdedc5f2f0b
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Tue Apr 28 12:47:26 2020 -0400
+
+    implementing cpp files
+
+commit a2f1a82308f48a515bb4f25280908dd9f8c66caf
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Tue Apr 28 11:54:24 2020 -0400
+
+    entity is done
+
+commit af747e8c7bdbed5274ea8af16634f0fcd00390ce
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Mon Apr 27 23:07:06 2020 -0400
+
+    work on entity, implemented all functions except getController
+
+commit a5174958982e1fa80f9b48b661e6ac846a9c93e2
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Sun Apr 26 23:12:17 2020 -0400
+
+    majority of entity done
+
+commit 746054b2509e239ea13629d02cecc7ccc45c0f9a
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Sun Apr 26 22:49:22 2020 -0400
+
+    finished functions dealing with properties of an entity
+
+commit bf63727ed5179bf22ef71aa899eeb5a1b7d253f2
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Sun Apr 26 21:52:33 2020 -0400
+
+    working on entity funtions, alsm moved positiontest file to where all the files are for better testing
+
+commit ce490782d5a419abb6600991679a4c78ba134d5d
+Merge: 8bad9ab 4412c34
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Sun Apr 26 13:10:53 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/anaemeribe/final_cs220
+    merge
+
+commit 8bad9ab9b9086df203fce20f71f3c38dec6dd741
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Sun Apr 26 13:10:33 2020 -0400
+
+    work on entity
+
+commit 4412c34f3d9e02df33cf4831e9c865f6f19cd17a
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Sat Apr 25 22:51:40 2020 -0400
+
+    Deleted swap file
+
+commit 4d16046f5113feff2b1f4986ebf42d49376e4614
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Sat Apr 25 22:49:00 2020 -0400
+
+    Added all neccessary class source files
+
+commit e79bfa8c5601589eb1c021a6a0a897628f97b2e3
+Merge: 37cd575 6ce2e03
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Sat Apr 25 22:24:08 2020 -0400
+
+    Attempt to rexolve issue with merging branches
+
+commit 37cd575b1cd18c363671f86da8dbe49471d16487
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Sat Apr 25 22:14:36 2020 -0400
+
+    Restored tile.h to its original glory
+
+commit 6ce2e039e932053ba5b0b0c51555bb8b3ac6f689
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Sat Apr 25 22:13:40 2020 -0400
+
+    makefile
+
+commit ffe71e96798688856a9832e6758fb823c1af6cf6
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Sat Apr 25 22:11:06 2020 -0400
+
+    work
+
+commit 68e1c3229e533df49ea00bdd27b5408f61d00399
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Sat Apr 25 22:10:20 2020 -0400
+
+    work
+
+commit c3a572d46cc5d1234e8abf56cf2a6c1b80245dc0
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Sat Apr 25 22:05:33 2020 -0400
+
+    work
+
+commit bc49ac093eecbddb7881f80b73e35ea3ebdcd84b
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Sat Apr 25 22:01:50 2020 -0400
+
+    work
+
+commit 9212c1b3a8f758be0a1177ee3578df78ba38460e
+Merge: c73555e 17d8f13
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Sat Apr 25 22:01:05 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/anaemeribe/final_cs220
+    ff
+
+commit 17d8f13beaee215f20a023031fd8f4cdb7b9498e
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Sat Apr 25 21:59:51 2020 -0400
+
+    updated checkMoveOnto implementation
+
+commit c73555e94547c611c9b616113ef21188d7bb422e
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Sat Apr 25 21:59:43 2020 -0400
+
+    cleanup
+
+commit 376c03a4720a8d18c2f860dbba555558136ba92b
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Sat Apr 25 21:56:48 2020 -0400
+
+    created goal.cpp
+
+commit 093924c80efc29b4e90783b561344cf4194992de
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Sat Apr 25 21:54:08 2020 -0400
+
+    errors on floor
+
+commit e3ce0992c30d9f9a8b168d4602d1f26397f920ae
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Sat Apr 25 21:51:13 2020 -0400
+
+    finish floor
+
+commit 2b5a13213449ed3a183a37a7bf2c122d7783f68a
+Author: Samuel Atefah <satefah1@jhu.edu>
+Date:   Sat Apr 25 21:29:33 2020 -0400
+
+    created finproj-tests folder
+
+commit 233238f824e88169632c007263db0a013b1410cc
+Merge: e872def 9116c26
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Sat Apr 25 20:39:17 2020 -0400
+
+    Implemented wall.cpp
+
+commit e872def0165cd0d97aac756df499c199433a67af
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Sat Apr 25 20:26:55 2020 -0400
+
+    Implemented wall.cpp
+
+commit 9116c26afcb0e6a32ecb7ef0bcfd447a85f1d1ad
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Sat Apr 25 18:54:44 2020 -0400
+
+    working on wall file
+
+commit 81b8c15137975f591fe8892e311235b0aedc836f
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Sat Apr 25 18:15:56 2020 -0400
+
+    work on wall.cpp
+
+commit 063f70bf45e86f15dd6d041c3411f3326a887b34
+Merge: f55633b b864a20
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Sat Apr 25 18:13:03 2020 -0400
+
+    work on wall
+    
+    work on wall
+
+commit f55633bec3a254af25f2033a80f6cb9bb0585319
+Author: Marcelo Morales <marcelomorales@Marcelos-MacBook-Air.local>
+Date:   Sat Apr 25 18:09:30 2020 -0400
+
+    work on wall.cpp
+
+commit b864a20e355e2306533d5dc69fae36b7a80689c6
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Fri Apr 24 23:31:35 2020 -0400
+
+    Implemented functions for wall.cpp
+
+commit 10fa88a2b8e7c9c31181d29a1e9ae51647fa51a7
+Author: anaemeribe <canaeme1@jhu.edu>
+Date:   Thu Apr 23 14:53:53 2020 -0400
+
+    Added starter code

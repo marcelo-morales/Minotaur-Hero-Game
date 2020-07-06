@@ -1,0 +1,17 @@
+Samuel Atefah, Chiamaka Anaemeribe, Marcelo Morales
+satefah1, canaeme1, lmoral10
+
+601.220.05 Intermediate Programming - Final Project
+
+This program implements a maze game in which a Hero tries to escape and avoid 
+being captured by the Minotaur. A text file is read from user input to see what 
+exact maze the Hero will be placed in to escape from the Minotaur. The Hero wins 
+if it is able to get to the goal tile before the Minotaur captures the Hero. The 
+Minotaur wins if it is able to capture the Hero. An interesting aspect of this 
+game is that some entites may have the 'v' property, meaning that they are 
+moveable and can only be pushed onto an unoccupied tile.
+
+MAIN CONTRIBUTIONS
+Samuel: AStarChaseHero, ChaseHero, Goal, UIController
+Chiamaka: BasicGameRules(1/2), Wall, Maze
+Marcelo: BasicGameRules(1/2), Entity, Floor, Inanimate, TextUI
